@@ -1,7 +1,7 @@
 # Code-Quiz-Challenge
 ## Description
 
-The motivation behind this project was to practice on the job tickets and to see what it is like working as a junior developer. The purpose of this project was to practice JavaScript skills and create a randomized, configurable password generator function to the given JavaScript code.
+The purpose of this project was to practice my new Web API skills and to build an application from the ground up. This code quiz demonstrates everything we learned during week four of the bootcamp.
 
 
 
